@@ -141,6 +141,6 @@ public class Inventory {
             total += p.getPrice() * p.getQuantity();
         }
 
-        System.out.println("\nTotal Inventory Value = " + total);
+        System.out.println("\nTotal Inventory Value = RS " + total);
     }
 }
