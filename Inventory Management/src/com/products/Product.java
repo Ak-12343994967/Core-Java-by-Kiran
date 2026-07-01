@@ -64,7 +64,7 @@ public class Product {
 
         return "ID : " + id +
                 "\nName : " + name +
-                "\nPrice : ₹" + price +
+                "\nPrice : RS " + price +
                 "\nQuantity : " + quantity +
                 "\nCategory : " + category;
     }
